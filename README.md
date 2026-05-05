@@ -1,12 +1,6 @@
 # Intel Sustainability Data Analysis
 ## Overview
-This project analyzes sustainability-related data from Intel to identify trends in environmental performance and support data-driven recommendations. The goal was to explore key metrics such as emissions, energy usage, and operational efficiency using data analysis and visualization techniques.
-
-## Objectives
-- Analyze sustainability datasets to identify trends and patterns
-- Evaluate performance across key environmental metrics
-- Create visualizations to communicate insights clearly
-- Support strategic recommendations based on data findings
+This project analyzes sustainability data from Intel to identify trends in their environmental performance and support data recommendations. The goal was to explore key metrics such as emissions, energy usage, and operational efficiency using data analysis and visualization.
 
 ## Tools & Technologies
 - Python (pandas, matplotlib)
